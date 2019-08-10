@@ -1,0 +1,26 @@
+{
+  "name": "favorite-cars",
+  "version": "1.0.0",
+  "description": "RESTful Api",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TevvinStrong/favorite-cars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TevvinStrong/favorite-cars/issues"
+  },
+  "homepage": "https://github.com/TevvinStrong/favorite-cars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.20.0",
+    "knex": "^0.19.1",
+    "nodemon": "^1.19.1"
+  }
+}
