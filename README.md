@@ -1,2 +1,2 @@
 # favorite-cars
-RESTful Api 
+Building a RESTful api utlizing PostgreSQL
